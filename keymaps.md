@@ -360,7 +360,6 @@ I use [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) to complete codes in neovi
 
 I use [cmake-tools.nvim](https://github.com/Civitasv/cmake-tools.nvim) to integrate CMake in neovim.
 
-WhichKey:
 
 ```lua
 c = {

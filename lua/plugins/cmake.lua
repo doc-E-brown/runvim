@@ -1,5 +1,5 @@
 return {
-  dir = "~/.local/share/nvim/personal/cmake-tools.nvim",
+  "Civitasv/cmake-tools.nvim",
   dependencies = {
     "stevearc/overseer.nvim",
   },

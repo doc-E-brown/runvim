@@ -286,3 +286,4 @@ require("rust-tools").setup({
     adapter = require("rust-tools.dap").get_codelldb_adapter(codelldb.codelldb_path, codelldb.liblldb_path),
   },
 })
+

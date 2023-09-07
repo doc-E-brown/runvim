@@ -59,5 +59,6 @@
   "vim-fugitive": { "branch": "master", "commit": "d4914b361b081c4d983e924f1dd337c143152833" },
   "vim-nightfly-colors": { "branch": "master", "commit": "2737ba5b8d22ad6803bb0f51099f90c61bab566c" },
   "vimtex": { "branch": "master", "commit": "ad17583ce399b6830b4c2888ef2a12d52c5eb607" },
+  "vimwiki": { "branch": "dev", "commit": "f0fe154ede6b11e3db9b058b930005a056a3d1c6" },
   "which-key.nvim": { "branch": "main", "commit": "7ccf476ebe0445a741b64e36c78a682c1c6118b7" }
 }
